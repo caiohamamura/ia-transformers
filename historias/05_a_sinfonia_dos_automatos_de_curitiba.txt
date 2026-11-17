@@ -1,0 +1,11 @@
+# A Sinfonia dos Autômatos de Curitiba
+
+Na primavera de 1923, o bairro de Santa Felicidade, em Curitiba, abrigava a oficina de instrumentos musicais e mecanismos de precisão do luthier e inventor polonês-brasileiro Maestro Ernesto Kowa. Após trinta anos construindo órgãos de tubos e caixas de música, Ernesto decidiu criar a primeira orquestra inteiramente mecânica da América do Sul, instalada no pequeno Teatro das Araucárias.
+
+A estrela principal da orquestra era um autômato violinista em tamanho humano batizado de Orfeu de Bronze. Construído com madeira de imbuia envernizada, juntas de bronze fosforoso e foles pneumáticos de couro fino, Orfeu de Bronze era capaz de executar arpejos complexos em quatro cordas com a mesma expressividade de um músico virtuoso, acionado por cilindros perfurados de latão.
+
+Para a noite de estreia, marcada para 22 de setembro de 1923, o Maestro Ernesto Kowa compôs uma peça inédita intitulada "Sinfonia das Quatro Estações do Paraná", escrita na tonalidade de Sol Menor. Contudo, na tarde anterior ao concerto, o cilindro mestre da sinfonia desapareceu misteriosamente do camarim principal do Teatro das Araucárias.
+
+A sobrinha do maestro, a pianista Helena Kowa, lembrou-se de que o tio sempre guardava uma cópia de segurança da partitura original em papel vegetal dentro de um compartimento secreto. Esse compartimento ficava oculto no interior da caixa acústica do grande violoncelo mecânico chamado Basso Profundo, destravado ao girar a cravelha da corda Dó três voltas para a esquerda.
+
+Helena recuperou a partitura em Sol Menor dentro do violoncelo Basso Profundo e, trabalhando durante toda a madrugada ao lado do Maestro Ernesto, perfurou um novo cilindro de latão a tempo da apresentação. O concerto de Orfeu de Bronze foi aplaudido de pé por mais de trezentas pessoas, tornando o Teatro das Araucárias uma lenda viva da engenharia musical brasileira.

@@ -1,0 +1,11 @@
+# A Expedição Submarina de Abrolhos
+
+Em novembro de 1978, o Instituto Oceanográfico Atlântico lançou sua missão mais ambiciosa no litoral sul da Bahia: a Operação Fossa de Coral. A expedição utilizava o submarino experimental de casco de titânio batizado de Nautilus Austral, comandado pela experiente Capitã Sofia Alencar e tendo como cientista-chefe o biólogo marinho Dr. Tomás Braga.
+
+O objetivo da missão era explorar a Fenda de Santa Bárbara, uma depressão vulcânica inexplorada situada a 840 metros de profundidade, a leste do arquipélago de Abrolhos. Os sensores sonares de superfície haviam detectado emissões térmicas regulares e pulsos luminosos esverdeados vindos do fundo da fenda, algo nunca antes documentado no Oceano Atlântico Sul.
+
+No terceiro dia de imersão, ao atingir a cota exata de 840 metros, a tripulação do Nautilus Austral descobriu um ecossistema autossustentável aquecido por fontes hidrotermais alcalinas. No centro desse jardim abissal vivia uma colônia de sifonóforos gigantes bioluminescentes que o Dr. Tomás Braga catalogou com o nome científico de Leviatã de Coral. Cada organismo da colônia podia atingir até 18 metros de comprimento e emitia flashes sincronizados de luz verde-esmeralda para atrair crustáceos cegos.
+
+Durante a coleta de amostras de água com o braço robótico Netuno-II, uma corrente térmica súbita empurrou o submarino contra uma parede de basalto, travando o leme hidráulico principal. Com a reserva de oxigênio reduzida para apenas seis horas, a Capitã Sofia Alencar precisou ativar o sistema auxiliar de propulsão a gás comprimido, cujo código de acionamento de emergência no painel central era "Maré Vermelha 42".
+
+Graças ao acionamento do código "Maré Vermelha 42", os tanques de lastro de emergência foram purgados com nitrogênio líquido, liberando o Nautilus Austral da fenda rochosa em menos de quatro minutos. O submarino retornou em segurança ao navio-base Cruzeiro do Trópico trazendo fotografias inéditas do Leviatã de Coral e amostras de bactérias termofílicas que revolucionaram a biotecnologia marinha brasileira.

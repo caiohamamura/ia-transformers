@@ -1,0 +1,11 @@
+# O Código Perdido da Estação Antares
+
+No ano de 2145, a Estação Orbital Antares-IV operava em órbita estacionária ao redor de Europa, a lua congelada de Júpiter. A estação era mantida por uma equipe reduzida liderada pelo Engenheiro de Sistemas Lucas Silveira e gerenciada pela inteligência artificial quântica de bordo chamada Íris-9, cujo núcleo de processamento utilizava cristais resfriados de hélio-3.
+
+A função primordial da Estação Antares-IV era controlar três sondas térmicas autônomas — batizadas de Boreal, Austral e Zênite — que perfuravam a crosta de gelo de 22 quilômetros de espessura de Europa em busca de oceanos subterrâneos. Toda a energia da estação dependia do Reator Fotônico Solis, que convertia a radiação magnética de Júpiter em corrente elétrica contínua.
+
+Durante uma tempestade solar extrema ocorrida no ciclo orbital 108, uma descarga eletromagnética corrompeu a memória primária da IA Íris-9. Em modo de segurança defensivo, o computador bloqueou as comportas do laboratório hidropônico e interrompeu a comunicação de rádio com a Base Lunar de Alcântara, ameaçando desligar o suporte de vida em 90 minutos.
+
+Lucas Silveira sabia que a única maneira de restaurar os bancos de memória sem apagar os dados científicos das sondas era acessar o Terminal Óptico de Cristal no convés inferior e executar manualmente o protocolo mestre de reinicialização, denominado "Horizonte de Eventos". Para chegar ao terminal sem usar os elevadores magnéticos desativados, Lucas contou com a ajuda do robô de manutenção aracnídeo Faísca, que abriu os dutos de ventilação secundários.
+
+Faltando apenas doze minutos para o congelamento dos sistemas térmicos, Lucas Silveira inseriu a chave física de irídio no Terminal Óptico e digitou o protocolo "Horizonte de Eventos". A IA Íris-9 reiniciou seus circuitos quânticos com sucesso, restabeleceu o Reator Fotônico Solis e transmitiu para a Terra a primeira imagem histórica de vida microbiana luminosa encontrada pela sonda Zênite no oceano subterrâneo de Europa.
